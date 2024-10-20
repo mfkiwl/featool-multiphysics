@@ -2,6 +2,15 @@
 ================================
 
 
+2024-10-20 version 1.17.1
+-------------------------
+
+- Added categories to physics mode selection list
+- New import fea struct from MATLAB menu option
+- Recommendation to use ESI openfoam.com (not openfoam.org)
+- Minor bug fixes
+
+
 2024-09-30 version 1.17
 -----------------------
 
